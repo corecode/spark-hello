@@ -1,7 +1,1 @@
-b__*
-*.stderr
-*.stdout
-*.ali
-*.bexch
-*.o
-hello
+obj
